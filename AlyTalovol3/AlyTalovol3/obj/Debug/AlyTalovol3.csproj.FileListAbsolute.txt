@@ -1,0 +1,14 @@
+C:\Visual Studio harjotukset\AlyTalovol3\AlyTalovol3\bin\Debug\AlyTalovol3.exe.config
+C:\Visual Studio harjotukset\AlyTalovol3\AlyTalovol3\obj\Debug\MainWindow.g.cs
+C:\Visual Studio harjotukset\AlyTalovol3\AlyTalovol3\obj\Debug\App.g.cs
+C:\Visual Studio harjotukset\AlyTalovol3\AlyTalovol3\obj\Debug\AlyTalovol3_MarkupCompile.cache
+C:\Visual Studio harjotukset\AlyTalovol3\AlyTalovol3\obj\Debug\AlyTalovol3_MarkupCompile.lref
+C:\Visual Studio harjotukset\AlyTalovol3\AlyTalovol3\bin\Debug\AlyTalovol3.exe
+C:\Visual Studio harjotukset\AlyTalovol3\AlyTalovol3\bin\Debug\AlyTalovol3.pdb
+C:\Visual Studio harjotukset\AlyTalovol3\AlyTalovol3\obj\Debug\MainWindow.baml
+C:\Visual Studio harjotukset\AlyTalovol3\AlyTalovol3\obj\Debug\AlyTalovol3.g.resources
+C:\Visual Studio harjotukset\AlyTalovol3\AlyTalovol3\obj\Debug\AlyTalovol3.Properties.Resources.resources
+C:\Visual Studio harjotukset\AlyTalovol3\AlyTalovol3\obj\Debug\AlyTalovol3.csproj.GenerateResource.Cache
+C:\Visual Studio harjotukset\AlyTalovol3\AlyTalovol3\obj\Debug\AlyTalovol3.exe
+C:\Visual Studio harjotukset\AlyTalovol3\AlyTalovol3\obj\Debug\AlyTalovol3.pdb
+C:\Visual Studio harjotukset\AlyTalovol3\AlyTalovol3\obj\Debug\AlyTalovol3.csprojResolveAssemblyReference.cache
